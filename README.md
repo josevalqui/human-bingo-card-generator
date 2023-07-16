@@ -3,8 +3,6 @@ A Python script that takes an Excel file of prompts with corresponding difficult
 
 
 ## Prerequisites
-
-  Python 3.x
   
   Libraries: pandas, weasyprint, PyPDF2
   
