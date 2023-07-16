@@ -4,8 +4,10 @@ A Python script that takes an Excel file of prompts with corresponding difficult
 
 ## Prerequisites
 
-  Python 3.x  
+  Python 3.x
+  
   Libraries: pandas, weasyprint, PyPDF2
+  
   prompts.xlsx file with prompts < 30 characters, and their corresponding difficulty level (1-3)
 
 ## Editable variables
