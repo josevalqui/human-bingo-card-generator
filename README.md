@@ -1,5 +1,5 @@
 # Human Bingo Card Generator
-A Python script that takes an Excel file of prompts with corresponding difficulty levels (1-3) and generates a PDF with unique and (difficulty-) balanced Human Bingo cards.
+A Python script that takes an Excel file of prompts with corresponding difficulty levels (1-3) and generates a PDF with unique and balanced Human Bingo cards.
 
 
 Prerequisites
