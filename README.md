@@ -2,22 +2,22 @@
 A Python script that takes an Excel file of prompts with corresponding difficulty levels (1-3) and generates a PDF with unique and balanced Human Bingo cards.
 
 
-Prerequisites
+## Prerequisites
 
     Python 3.x
     Libraries: pandas, weasyprint, PyPDF2
-    prompts.xlsx file with prompts and their corresponding difficulty level (1-3)
+    prompts.xlsx file with prompts < 30 characters, and their corresponding difficulty level (1-3)
 
-Editable variables
+## Editable variables
 
   prompts_per_card: number of prompts from each difficulty level in each card (has to add up to 25)
   num_cards: number of cards that should be generated
 
-Output
+## Output
 
   The script will generate a PDF file (x_Bingo_Cards.pdf') with two bingo cards per page.
 
-Things to look out for
+## Things to look out for
 
   The prompts should be no longer than around 30 characters (5-6 words)
 
